@@ -34,6 +34,7 @@ div{
     height: 100px;
     padding: 20px;
     border: solid 3px #FFFFFf;
+    min-height: 100px;
 }
 .intro{
     border-radius: 15px;
@@ -47,7 +48,7 @@ div{
     margin-left: 50px;
     border-style: solid;
     border-width: 0px 0px 3px 10px;
-    min-height: 20px;
+    
 }
 .blue{
     background-color:#0000FF;
@@ -55,7 +56,7 @@ div{
     margin-right: 50px;
     border-style: solid;
     border-width: 0px 10px 3px 0px;
-    min-height: 20px;
+    
 }
 .yellow{
     background-color:#FFFF00;
@@ -64,7 +65,7 @@ div{
     border-style: solid;
     border-width: 0px 0px 3px 10px;
     color: #000;
-    min-height: 20px;
+    
     
 }
 .yellow h2{
@@ -78,7 +79,7 @@ div{
     margin-right: 50px;
     border-style: solid;
     border-width: 0px 10px 3px 0px;
-    min-height: 20px;
+    
 }
 span{
     text-decoration: underline;
